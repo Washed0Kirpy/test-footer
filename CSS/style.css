@@ -1,0 +1,65 @@
+body{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    height: 700px;
+}
+footer{
+    background-color: rgb(126, 119, 231);
+    margin: 1px;
+    padding: 1px;
+    height: 500px;
+    color: white;
+}
+.ikony{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 10px;
+}
+h3{
+    font-weight: 1000;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    display: flex;
+    justify-content: center;
+}
+.TEN{
+    display: flex;
+    justify-content: center;
+    font-weight: 1000;
+}
+.sloupecnesloupec{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 1000;
+}
+.pondeli{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+li{
+    list-style-type: none;
+}
+.gapa{
+    display: flex;
+}
+svg:hover {
+    fill: red;
+}
+.kontakty{
+    display: flex;
+    justify-content: center;
+}
+.tlustej{
+    font-weight: 1000;
+    display: flex;
+    justify-content: center;
+
+}
+
+
